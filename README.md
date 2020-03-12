@@ -1,1 +1,3 @@
-# hellowworldB
+# maven-project
+
+Simple Maven Project
